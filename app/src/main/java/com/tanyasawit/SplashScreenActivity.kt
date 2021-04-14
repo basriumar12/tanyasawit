@@ -1,4 +1,4 @@
-package com.daviastore
+package com.tanyasawit
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity

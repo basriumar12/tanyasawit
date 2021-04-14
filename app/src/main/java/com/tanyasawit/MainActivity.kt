@@ -1,4 +1,4 @@
-package com.daviastore
+package com.tanyasawit
 
 import android.content.Intent
 import android.net.Uri
@@ -75,7 +75,7 @@ class MainActivity : AppCompatActivity() {
         webview?.getSettings()?.setUseWideViewPort(true);
         webview?.getSettings()?.setLoadWithOverviewMode(true);
 
-        webview.loadUrl("https://www.daviastore.com/");
+        webview.loadUrl("https://www.tanyasawit.net/");
         Handler().postDelayed({
             progress_circular.visibility = View.GONE
         },6000)

@@ -1,4 +1,4 @@
-package com.daviastore
+package com.tanyasawit
 
 import org.junit.Test
 
