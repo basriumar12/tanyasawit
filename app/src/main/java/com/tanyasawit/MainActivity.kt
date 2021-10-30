@@ -75,7 +75,7 @@ class MainActivity : AppCompatActivity() {
         webview?.getSettings()?.setUseWideViewPort(true);
         webview?.getSettings()?.setLoadWithOverviewMode(true);
 
-        webview.loadUrl("https://www.tanyasawit.net/");
+        webview.loadUrl("http://web.rsudcilincing.id/");
         Handler().postDelayed({
             progress_circular.visibility = View.GONE
         },6000)
